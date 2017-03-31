@@ -38,3 +38,5 @@ The project represents an alpha version of a spaceship.
 ## Change log:
 0.1:
 - Added change log.
+0.2:
+- Added firing mode all to torpedos
